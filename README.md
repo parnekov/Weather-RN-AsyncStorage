@@ -1,9 +1,9 @@
-# Weather-RN-Realm
+# Weather-RN-AsyncStorage
 
 This app getting weather by city.
 
 Technologies, elements and libraries used when writing an application:
-JavaScript, React Native, Redux, Redux Thunk, Navigation, Realm Database.
+JavaScript, React Native, Redux, Redux Thunk, Navigation, AsyncStorage.
 
 
 ## View
